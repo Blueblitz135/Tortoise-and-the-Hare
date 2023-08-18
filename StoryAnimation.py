@@ -1,15 +1,6 @@
 # StoryAnimation.py
 # 2022-06-04
 # This is an Animation of the story "The Tortoise and The Hare"
-# Includes:
-    # Frame transitions with use of mouse, key, and timer
-    # Use of every drawable object in the graphics.py module
-    # 6 Frames
-    # Use of imported images, entry box, classes, functions
-    # Use of conditional, counted, and infinite loops
-    # Use of selection (choose to be hare or tortoise)
-# Use of COUNTER example: line 361 
-# Use of ACCUMULATOR example: line 303
 
 # Import libraries 
 from graphics import *
