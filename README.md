@@ -1,5 +1,5 @@
 # Tortoise-and-the-Hare
-A short and fun animation of the Tortoise and the Hare 
+A short and fun animation of the Tortoise and the Hare. 
 
 Any bugs and crashes to watch for:
 - Images potentially not loading
